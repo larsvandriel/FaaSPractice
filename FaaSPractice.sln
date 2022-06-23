@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaaSPractice", "FaaSPractice\FaaSPractice.csproj", "{4D304D8A-B2CE-4859-BBBE-03B591B3FFBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D304D8A-B2CE-4859-BBBE-03B591B3FFBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D304D8A-B2CE-4859-BBBE-03B591B3FFBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D304D8A-B2CE-4859-BBBE-03B591B3FFBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D304D8A-B2CE-4859-BBBE-03B591B3FFBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E1AD08D-A81B-4513-B7B6-7472D7E7C4F1}
+	EndGlobalSection
+EndGlobal
